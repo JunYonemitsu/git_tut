@@ -3,8 +3,7 @@ HOGE
 PIYO
 B
 C
-<<<<<<< HEAD
 D
-=======
 E
 F
+G
