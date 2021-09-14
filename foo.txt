@@ -1,5 +1,6 @@
 A
 HOGE
+PIYO
 B
 C
 <<<<<<< HEAD
